@@ -8,7 +8,7 @@ This is a simple Tic-Tac-Toe game created using HTML, CSS, and JavaScript. The g
 * Dynamic UI: The game updates the UI in real-time as players make their moves.
 * Win detection: The game automatically detects when a player has won or if the game ends in a draw.
 * Responsive design: The game is playable on various screen sizes.
-  ![Game](https://github.com/user-attachments/assets/6acf8077-12df-4f3f-9bcf-33ab3a2c03c8)
+![Win](https://github.com/user-attachments/assets/ecf65c2b-84af-4757-bb77-61fd8a8e77e0)
 
 
 ## Technologies Used
